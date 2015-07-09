@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\se_free_dirt_texture.jpg</Source>
+      <Name>Tiles\se_free_dirt_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Tiles\se_free_dirt_texture.xnb</Output>
+      <Time>2013-02-25T14:11:26.7878788+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\se_free_grass_texture.jpg</Source>
+      <Name>Tiles\se_free_grass_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Tiles\se_free_grass_texture.xnb</Output>
+      <Time>2013-02-25T14:11:26.8538826+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\se_free_ground_texture.jpg</Source>
+      <Name>Tiles\se_free_ground_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Tiles\se_free_ground_texture.xnb</Output>
+      <Time>2013-02-25T14:11:26.8378817+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\se_free_mud_texture.jpg</Source>
+      <Name>Tiles\se_free_mud_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Tiles\se_free_mud_texture.xnb</Output>
+      <Time>2013-02-25T14:11:26.8458821+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\se_free_road_texture.jpg</Source>
+      <Name>Tiles\se_free_road_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Tiles\se_free_road_texture.xnb</Output>
+      <Time>2013-02-25T14:11:26.7948792+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\se_free_dark_texture.jpg</Source>
+      <Name>Tiles\se_free_dark_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Tiles\se_free_dark_texture.xnb</Output>
+      <Time>2013-02-26T01:49:57.1334573+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\bum.png</Source>
+      <Name>Tiles\bum</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Tiles\bum.xnb</Output>
+      <Time>2013-02-26T23:37:10.1899162+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\scr1.png</Source>
+      <Name>Sprites\scr1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Sprites\scr1.xnb</Output>
+      <Time>2013-02-27T18:38:07.3099144+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\smr1.png</Source>
+      <Name>Sprites\smr1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Sprites\smr1.xnb</Output>
+      <Time>2013-02-28T11:28:29.9846959+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\dvl1.png</Source>
+      <Name>Sprites\dvl1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Sprites\dvl1.xnb</Output>
+      <Time>2013-02-27T20:39:01.4398269+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\npc4.png</Source>
+      <Name>Sprites\npc4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Sprites\npc4.xnb</Output>
+      <Time>2013-02-27T23:48:40.9616983+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\weapons.png</Source>
+      <Name>Items\weapons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Items\weapons.xnb</Output>
+      <Time>2013-03-02T20:56:19.0407459+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Items\Stairs.png</Source>
+      <Name>Items\Stairs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\Items\Stairs.xnb</Output>
+      <Time>2013-03-01T23:03:01.736222+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon CrawlerContent\</RootDirectory>
+      <LoggerRootDirectory>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon CrawlerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\SkyDrive\Schule\5AHITT\APR\Programme\Dungeon Crawler\Dungeon Crawler\Dungeon Crawler\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-11T13:48:15.127812+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

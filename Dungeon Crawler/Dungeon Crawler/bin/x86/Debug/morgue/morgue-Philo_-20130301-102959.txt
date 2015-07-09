@@ -1,0 +1,203 @@
+ Dungeon Crawl Stone Soup version 0.11.2 (tiles) character file.
+
+412 Philo_ the Sneak (level 5, -1/26 HPs)
+             Began as a Spriggan Assassin on Mar 1, 2013.
+             Slain by an ogre
+             ... wielding a +0,+0 giant spiked club
+              (26 damage)
+             ... on Level 4 of the Dungeon.
+             The game lasted 00:06:20 (2685 turns).
+
+Philo_ the Sneak (Spriggan Assassin)                Turns: 2685, Time: 00:06:20
+
+HP  -1/26        AC  3     Str  7      XL: 5   Next:  0%
+MP   9/9         EV 20     Int 13      God: 
+Gold 286         SH  0     Dex 18      Spells:  0 memorised,  4 levels left
+
+Res.Fire  : . . .   See Invis. : +   a - +2 dagger {=f}
+Res.Cold  : . . .   Warding    : .   c - +0 robe
+Life Prot.: . . .   Conserve   : .   (shield restricted)
+Res.Poison: .       Res.Corr.  : .   (helmet restricted)
+Res.Elec. : .       Clarity    : .   d - +0 cloak
+Sust.Abil.: . .     Spirit.Shd : .   (gloves unavailable)
+Res.Mut.  : .       Stasis     : .   (boots unavailable)
+Res.Rott. : .       Ctrl.Telep.: .   (no amulet)
+Saprovore : . . .   Levitation : .   (no ring)
+                    Ctrl.Flight: .   (no ring)
+
+@: very quick, somewhat resistant to hostile enchantments, quite stealthy
+A: unfitting armour, see invisible, herbivore 3, speed 3, slow metabolism 2
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 236 gold pieces.
+
+Inventory:
+
+Hand weapons
+ a - a +2,+2 dagger (weapon) {=f}
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+ z - a +0 pair of gauntlets
+Magical devices
+ q - a wand of frost (12) {unknown}
+ s - a wand of magic darts (1) {unknown}
+Comestibles
+ j - 16 grapes
+ n - an apple
+ o - a bread ration
+ D - a choko
+Scrolls
+ h - a scroll of identify {unknown}
+ i - 6 scrolls of remove curse {unknown}
+ m - 2 scrolls of amnesia {unknown}
+ t - a scroll of fear {unknown}
+ v - a scroll of blinking {unknown}
+ w - a scroll of random uselessness {unknown}
+ y - a scroll of magic mapping {unknown}
+ B - a scroll of fog {unknown}
+ C - a scroll of curse weapon {unknown}
+Jewellery
+ k - an uncursed amulet of inaccuracy {unknown}
+ l - an uncursed ring of ice {unknown}
+ r - an uncursed ring of fire {unknown}
+Potions
+ g - a potion of porridge
+ p - a potion of confusion {unknown}
+ u - a potion of mutation {unknown}
+ x - a potion of brilliance {unknown}
+ A - a potion of gain intelligence {unknown}
+ E - a potion of speed {unknown}
+
+
+   Skills:
+ + Level 1,8 Fighting
+ + Level 3,1 Short Blades
+ - Level 2,1 Throwing
+ + Level 4,4 Dodging
+ + Level 5,4 Stealth
+ + Level 4,1 Stabbing
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/27)            
+Temple: D:4-7       
+
+Altars:
+Cheibriados
+
+Annotations
+D:4 Philo_'s ghost, weakling HEFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are tiny and cannot use many weapons and most armour.
+You have supernaturally acute eyesight.
+You are a herbivore.
+You cover ground extremely quickly.
+You need consume almost no food.
+
+
+Message History
+
+E - a viscous pink potion
+You now have 286 gold pieces (gained 14).
+Found 21 stones.
+An ogre comes into view. It is wielding a giant spiked club.
+An ogre is nearby!
+Philo_'s ghost (weakling High Elf Fighter) comes into view.
+Philo_'s ghost turns its malevolent gaze towards you.
+You hit the ogre.
+The ogre is lightly wounded.
+The ogre closely misses you.
+You hit the ogre.
+The ogre is lightly wounded.
+You hit the ogre.
+The ogre is moderately wounded.
+The ogre barely misses you.
+You hit the ogre.
+The ogre is moderately wounded.
+The ogre hits you with a giant spiked club!
+Ouch! That really hurt!
+You die...
+
+                #######   ########
+                #.....#   #.......
+                #.....#   #....[..
+                #.....#   #.......
+                #.O...#####.......
+       ##########@p...#..........#
+   #####...........?..#........[.#
+  ##......#....#...####......##...
+###<...........'...#  #).....'....
+...............#...#  #......##.#.
+###..#.........##'##  #......##...
+###..###...........#  #.##......#.
+.......#[.##.#.##..#  #.##..#####.
+...................#  #.##....#...
+.###.#.#...##......####.##.##.#.##
+...........##..#.#.##.#.##.##...#
+
+
+You could see an ogre and Philo_'s ghost.
+
+Vanquished Creatures
+  Jessica (D:2)
+  3 adders
+  A worm (D:3)
+  3 giant geckos
+  An orc (D:4)
+  A ball python (D:3)
+  3 giant cockroaches
+  10 hobgoblins
+  7 jackals
+  9 kobolds
+  10 bats
+  3 giant newts
+  9 goblins
+  A hobgoblin zombie (D:2)
+  A quokka (D:2)
+  10 rats
+  A toadstool (D:3)
+74 creatures vanquished.
+
+Vanquished Creatures (others)
+  A goblin (D:3)
+  A toadstool (D:1)
+2 creatures vanquished.
+
+Grand Total: 76 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+--------------------------------------------------------------
+     0 | D:1      | Philo_, the Spriggan Assassin, began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 1/1
+   222 | D:1      | Reached skill level 5 in Stealth
+   240 | D:1      | Reached XP level 2. HP: 9/14 MP: 3/3
+  1049 | D:2      | Reached XP level 3. HP: 18/18 MP: 5/5
+  1154 | D:2      | Noticed Jessica
+  1172 | D:2      | Killed Jessica
+  1263 | D:2      | Found a snail-covered altar of Cheibriados.
+  1273 | D:2      | Reached XP level 4. HP: 15/22 MP: 7/7
+  2645 | D:4      | Reached XP level 5. HP: 23/26 MP: 9/9
+  2672 | D:4      | Noticed an ogre
+  2679 | D:4      | Noticed Philo_'s ghost (weakling HEFi)
+  2685 | D:4      | Slain by an ogre
+
